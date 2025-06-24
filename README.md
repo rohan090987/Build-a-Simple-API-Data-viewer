@@ -23,4 +23,4 @@ This project uses the endpoint:
 
 ## 🌐 Live Demo
 
-[Click here to view the app]([https://rohan090987.github.io/Build-a-Simple-API-Data-viewer/)
+[Click here to view the app](https://rohan090987.github.io/Build-a-Simple-API-Data-viewer/)
